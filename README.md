@@ -27,7 +27,7 @@ The Links below will take you to the Repository page for this challenge as well 
 
 ## Site Image
 
-! [Quiz-Taking-Site!](https://github.com/thenoahac/coding-quiz-challenge4/blob/main/assets/images/Capture.JPG)
+![](https://github.com/thenoahac/coding-quiz-challenge4/blob/main/assets/images/Capture.JPG)
 
 ## Credits
 
