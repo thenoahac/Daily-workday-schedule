@@ -27,16 +27,14 @@ The Links below will take you to the Repository page for this challenge as well 
 
 ## Site Image
 
-![](https://github.com/thenoahac/coding-quiz-challenge4/blob/main/assets/images/Capture.JPG)
+![](./Assets/Daily%20workday%20schedule.JPG)
 
 ## Credits
 
--Thank you to Joe Rehfuss for helping me kick off the starting code for my arrays and event listeners
+-Thank you to  my tutor, Irina Kudosova, for helping me with my logic statement to determine the colors of my text box.
 
--EXTREMELY huge thank you to Parker McKillop for helping me debug my arrays and event listeners, as well as my timer. You were a major reason I finished this challenge.
+-Huge thank you to Lesli P for helping me with my on click buttons.
 
--Thank you to Hope Barrow for giving me pointers on how to format my js and my html!
-
--Thank you to Gabe Sowa for helping me relax and rationalize my code when I was getting stressed out!
+-Thank you to Gabe Sowa for giving me pointers on my bootstrap layout!
 
 -Thank you to google for having websites like w3schools!
