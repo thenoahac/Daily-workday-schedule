@@ -6,13 +6,6 @@ This was a code assignment utilizing  HTML, CSS, Javascript, Jquery, and Bootstr
 The motivation for building this project was building on top of the fundamentals I've obtained and using them to troubleshoot and through trial and error learn what else I am capable of. I can comfortably say I am slightly more confident in my Javascript abilities compared to where I was in my last assignment for challenge 4, even though I have a long way to go I can definitely feel myself grasping the concepts better.
 I did learn that collabing with other students and peers can allow me to see other methods and approaches as well as simple silly mistakes I have made that I missed staring at my code for hours. I have to keep reminding myself that software engineering is a cooperative field and you can not and will not expect to do everything by yourself.
 
-## Table of Contents
-
-[Usage](#usage)
-[GitHub Repository](#github-repository)
-[Site Image](#site-image)
-[Credits](#credits)
-
 ## Usage
 
 The use of this page is to use as a daily planner and log whatever you type in the designated text area to your local storage to come back to when you close the page.
